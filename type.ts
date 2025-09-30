@@ -1,0 +1,1 @@
+type Tipador = string | number | boolean;
